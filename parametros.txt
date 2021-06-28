@@ -1,0 +1,7 @@
+#
+#	Cenario Basico
+#
+#Arquivo=>Compras_01:Debora
+Arquivo=>shopping-01:Checkout-02
+#Arquivo=>shopping-01:checkout
+#Arquivo=>shopping-01:teste
